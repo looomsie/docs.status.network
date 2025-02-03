@@ -1,4 +1,3 @@
 [build]
-  base = "docs.status.network"
   command = "yarn install && yarn build"
-  publish = "docs.status.network/build"
+  publish = "build"
