@@ -25,7 +25,7 @@ yarn
 
 ### Local Development
 
-```bash
+```bash 
 # Start the development server
 yarn start
 ```
