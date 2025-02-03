@@ -1,0 +1,4 @@
+[build]
+  base = "DOCS.STATUS.NETWORK"
+  command = "yarn install && yarn build"
+  publish = "DOCS.STATUS.NETWORK/build"
